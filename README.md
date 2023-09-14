@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header"  width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header"  width="100%" >
 # Whitelim - with Forestseason
 😎 Web & App Developer - Whitelim
 
@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/json-000000?style=flat&logo=json&logoColor=white" >
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white" >
   <img src="https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white" >
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteLim)](https://github.com/anuraghazra/github-readme-stats)
+### Github Use Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteLim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 ## Make Site
 ### BEBEHOUSE KENNEL - https://bebehousekennel.co.kr/
