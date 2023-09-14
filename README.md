@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header"  width="100%" />
 
 # Whitelim - with Forestseason
-😎 Web & App Developer - Whitelim
+😎 Front End Developer - Whitelim
 
 ## My Skill
 
