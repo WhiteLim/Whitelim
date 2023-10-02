@@ -10,7 +10,7 @@
 ![WhiteLim's github stats](https://github-readme-stats.vercel.app/api?username=WhiteLim&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteLim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 ## Make Site
-### NONCET RENEWAL TEST SITE - http://ntserver.dothome.co.kr/
+### NONCET RENEWAL TEST SITE - http://ntserver.dothome.co.kr/ for Gunborad
 #### - Base Language : <img src="https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white" > <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white" > <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" > <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" > <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" >
 #### - Work : Renewal, Admin CMS Setting, Member EDU Page DB Setting, Review System, Online Class System setting
 #### - Work day : 5Day (23.09.28~23.10.03 / 23.09.29 Closed)
