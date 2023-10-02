@@ -13,6 +13,9 @@
 ### NONCET RENEWAL TEST SITE - http://ntserver.dothome.co.kr/
 #### - Base Language : <img src="https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white" > <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white" > <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" > <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" > <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" >
 #### - Work : Renewal, Admin CMS Setting, Member EDU Page DB Setting, Review System, Online Class System setting
+#### - Work day : 5Day (23.09.28~23.10.03 / 23.09.29 Closed)
+### - Test day : Double Check Not yet
+### - Live server upload : none
 ##
 ### BlueBird WebGame - https://bluebird.forestseason.kr/ [ 개발 임시 중단 - 오라클 SQL 연동 후 React로 재 개발 예정 ]
 #### - Base Language : <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white" > <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" > <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" > <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" > <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" > <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" > <img src="https://img.shields.io/badge/json-000000?style=flat&logo=json&logoColor=white" >
