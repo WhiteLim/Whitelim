@@ -17,7 +17,8 @@
 ### - Test day : Double Check Not yet
 ### - Live server upload : none
 ##
-### BlueBird WebGame - https://bluebird.forestseason.kr/ [ 개발 임시 중단 - 오라클 SQL 연동 후 React로 재 개발 예정 ]
+### BlueBird WebGame - https://bluebird.forestseason.kr/
+[ 개발 임시 중단 - 오라클 SQL 연동 후 React로 재 개발 예정 ]
 #### - Base Language : <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white" > <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" > <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" > <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" > <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" > <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" > <img src="https://img.shields.io/badge/json-000000?style=flat&logo=json&logoColor=white" >
 #### - Work : https://www.notion.so/BlueBird-Development-Note-73f4252eeeea495fae2e6d717c448abd
 ##
