@@ -25,7 +25,6 @@
 #### - Base Language : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" > <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" > <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" > <img src="https://img.shields.io/badge/json-000000?style=flat&logo=json&logoColor=white" >
 #### - Work : Main page product random setting, Main page prouct modal margin-rigth script setting, Map Moveevent setting, Map icon click event & list view setting, Like button setting(Localstorage)
 ##
-#### _ Work : 
 ### [CLONE CODDING] SAMSUNG DESIGN - https://whitelim.github.io/Gitproject/clon/samsung-design/
 #### - Base Language : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" > <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" > <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" > <img src="https://img.shields.io/badge/json-000000?style=flat&logo=json&logoColor=white" >
 #### - Work - Renewal, Data json make, use feach data list view, script spa setting
