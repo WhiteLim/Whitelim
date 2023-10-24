@@ -59,8 +59,9 @@
 ```
 work - Server setting, pwa setting, DB setting, Buildup
 work day - 12Day
-test day - none
+test day - 23.10.18-20
 build & start - 23.10.20
+end - 23.10.23
 ```
 ---
 
