@@ -35,13 +35,18 @@
 | -- | -- | -- |
 | 1 | Forest Next Project | <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=Oracle&logoColor=white" /> |
 | 2 | Bluebird webgame project | <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=Oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Type Script-3178C6?style=flat&logo=typescript&logoColor=white" />
-| 3 | Whitelime PF | <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=Oracle&logoColor=white" />
+| 3 | Whitelime PF | <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=Oracle&logoColor=white" />
  
 # Portfolio
+## Summary
+| No | Title | Work | Link | Use Language |
+| -- | -- | -- | -- | -- |
+| 1 | Next Forest | notyet | notyet | <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=Oracle&logoColor=white" />  <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" /> |
+| 2 | Digimonmind | [디테일](https://github.com/WhiteLim/Whitelim/edit/main/README.md#digimonmind-team-project) | https://dm-ten-pearl.vercel.app/ | <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=Oracle&logoColor=white" />  <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" /> |
+| 3 | BlueBird WebGame | [디테일](https://github.com/WhiteLim/Whitelim#bluebird-webgame-for-react-ver-1) | https://bluebird.forestseason.kr/ | <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" /> <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/json-000000?style=flat&logo=json&logoColor=white" /> |
+
 ### Digimonmind [Team project] 
-```
-https://dm-ten-pearl.vercel.app/
-```
+[작업물](https://dm-ten-pearl.vercel.app/)
 #### [ Front ]
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> 
@@ -91,9 +96,7 @@ build & start : none
 ---
 
 ### BlueBird WebGame for React [ver. 1]
-```
-https://bluebird.forestseason.kr/
-```
+[작업물](https://bluebird.forestseason.kr/)
 > 개발 임시 중단 - 오라클 클라우드 / MariaDB / Next.js / typescript로 개발 예정
 
 #### [ Front ]
