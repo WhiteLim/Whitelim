@@ -35,6 +35,7 @@
 | -- | -- | -- |
 | 1 | Forest Next Project | <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=Oracle&logoColor=white" /> |
 | 2 | Bluebird webgame project | <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=Oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Type Script-3178C6?style=flat&logo=typescript&logoColor=white" />
+| 3 | Whitelime PF | <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=Oracle&logoColor=white" />
  
 # Portfolio
 ### Digimonmind [Team project] 
