@@ -39,12 +39,34 @@
 | 3 | BlueBird WebGame | https://bluebird.forestseason.kr/ | <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" /> <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/json-000000?style=flat&logo=json&logoColor=white" /> |
 <hr />
 
+### Next Forest
+[작업물](https://wh-nextforest.vercel.app/)
+#### [ Front ]
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" />
+</p>
+
+#### [ Back ]
+<p>
+    <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat&logo=Oracle&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" /> 
+</p>
+
+```
+work - Style Components Setting / Dark Mode, Light Mode Setting / Main Rendering SPA System 
+work day - 16Day (23.10.25-23.11.10)
+```
+---
 ### Digimonmind [Team project] 
 [작업물](https://dm-ten-pearl.vercel.app/)
 #### [ Front ]
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat&logo=Javascript&logoColor=white" />
 </p>
