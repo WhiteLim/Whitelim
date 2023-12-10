@@ -4,6 +4,7 @@
 
 ```
 😎 Front End Developer - Whitelim
+😏 Side Project [ Buzzle 팀원 ]
 ```
 
 # Use Language
