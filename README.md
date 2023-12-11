@@ -4,6 +4,7 @@
 
 ```
 😎 Front End Developer - Whitelim
+🐵 Dotnamekorea Development Team
 😏 Side Project [ Buzzle 팀원 ]
 ```
 
